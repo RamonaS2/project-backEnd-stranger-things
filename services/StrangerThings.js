@@ -1,4 +1,5 @@
 'use strict';
+// iniciando projeto
 
 const flipout = require('flipout');
 
