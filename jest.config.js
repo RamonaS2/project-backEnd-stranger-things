@@ -1,5 +1,5 @@
 module.exports = {
     rootDir: './tests',
     testRegex: './*\\.test\\.js$',
-    testTimeout: 300000,
+    testTimeout: 500000,
   };
